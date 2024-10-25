@@ -1,5 +1,7 @@
 # Pallets Sphinx Themes
 
+hi!
+
 Themes for the Pallets projects. If you're writing an extension, use the
 appropriate theme to make your documentation look consistent.
 
